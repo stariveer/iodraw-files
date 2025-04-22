@@ -114,7 +114,7 @@
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-67" target="kA6SFu2qZ5zpuUMocs6E-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kA6SFu2qZ5zpuUMocs6E-108" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-76">
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-108" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;股东类型: 企业法人&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-76">
           <mxGeometry x="-0.1579" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -133,6 +133,11 @@
         </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-75" target="kA6SFu2qZ5zpuUMocs6E-77">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-109" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-79">
+          <mxGeometry x="0.6939" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-75" target="kA6SFu2qZ5zpuUMocs6E-80">
           <mxGeometry relative="1" as="geometry" />

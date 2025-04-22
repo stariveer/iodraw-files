@@ -134,13 +134,18 @@
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-75" target="kA6SFu2qZ5zpuUMocs6E-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kA6SFu2qZ5zpuUMocs6E-109" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-79">
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-109" value="股东类型: 自然人股东" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-79">
           <mxGeometry x="0.6939" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-75" target="kA6SFu2qZ5zpuUMocs6E-80">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-110" value="股东类型: 自然人股东" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-81">
+          <mxGeometry x="0.6463" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-75" value="上海绝胜影辉科技有限责任公司&lt;br&gt;91310000MADEA26E6J" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="827" width="260" height="60" as="geometry" />

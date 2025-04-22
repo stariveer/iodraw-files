@@ -48,17 +48,21 @@
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-59" value="&lt;div&gt;上海临港绝影智能科技有限公司&lt;/div&gt;&lt;div&gt;91310115MA1HA4LC19&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="437.5" y="360" width="275" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kA6SFu2qZ5zpuUMocs6E-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-61" target="kA6SFu2qZ5zpuUMocs6E-63">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-61" value="&lt;div&gt;上海眸正科技有限公司&lt;/div&gt;&lt;div&gt;91310000MA1FRLHB59&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="467.5" y="510" width="215" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kA6SFu2qZ5zpuUMocs6E-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-63" target="kA6SFu2qZ5zpuUMocs6E-65">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kA6SFu2qZ5zpuUMocs6E-63" value="登记的名字查不到" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="kA6SFu2qZ5zpuUMocs6E-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="859.9999999999995" y="540" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="910" y="541" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-65" target="kA6SFu2qZ5zpuUMocs6E-67">
           <mxGeometry relative="1" as="geometry" />

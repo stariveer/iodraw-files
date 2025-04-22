@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kA6SFu2qZ5zpuUMocs6E-57" value="股东类型" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-55" target="kA6SFu2qZ5zpuUMocs6E-56">
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-57" value="股东类型&lt;br&gt;外国（地区）企业" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-55" target="kA6SFu2qZ5zpuUMocs6E-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="190" y="310" />

@@ -87,7 +87,7 @@
         </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-106" value="股东类型: 其他投资者" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-72">
           <mxGeometry x="0.6543" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-65" target="kA6SFu2qZ5zpuUMocs6E-73">
@@ -117,7 +117,7 @@
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-67" value="上海绝速企业咨询合伙企业（有限合伙）&lt;br&gt;91310000MADEJ4NH3K" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="680" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kA6SFu2qZ5zpuUMocs6E-69" value="銀銘有限公司&lt;br&gt;股东类型: 其他投资者" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-69" value="銀銘有限公司" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="680" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-73" value="SENSETIME SINGAPORE MANAGEMENT PTE. LTD." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">

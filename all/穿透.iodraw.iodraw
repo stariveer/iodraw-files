@@ -114,6 +114,11 @@
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-67" target="kA6SFu2qZ5zpuUMocs6E-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-111" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;股东类型: 企业法人&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-76">
+          <mxGeometry x="-0.1095" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-67" value="上海绝速企业咨询合伙企业（有限合伙）&lt;br&gt;91310000MADEJ4NH3K" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="680" width="220" height="60" as="geometry" />
         </mxCell>

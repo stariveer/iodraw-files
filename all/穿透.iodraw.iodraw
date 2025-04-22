@@ -40,7 +40,7 @@
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-59" target="kA6SFu2qZ5zpuUMocs6E-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kA6SFu2qZ5zpuUMocs6E-85" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-62">
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-85" value="股东类型&lt;br&gt;外商投资企业" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-62">
           <mxGeometry x="-0.15" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

@@ -69,8 +69,14 @@
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-73" value="SENSETIME SINGAPORE MANAGEMENT PTE. LTD.&lt;br&gt;股东类型: 其他投资者" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1250" y="680" width="180" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-75" target="kA6SFu2qZ5zpuUMocs6E-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-75" value="上海绝胜影辉科技有限责任公司&lt;br&gt;91310000MADEA26E6J&lt;div&gt;股东类型: 企业法人&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="827" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-77" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="967" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

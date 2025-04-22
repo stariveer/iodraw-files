@@ -29,7 +29,7 @@
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-58" target="kA6SFu2qZ5zpuUMocs6E-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kA6SFu2qZ5zpuUMocs6E-84" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-60">
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-84" value="&lt;div&gt;总公司&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-60">
           <mxGeometry x="-0.1621" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -39,6 +39,11 @@
         </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-59" target="kA6SFu2qZ5zpuUMocs6E-61">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-85" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-62">
+          <mxGeometry x="-0.15" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-59" value="&lt;div&gt;上海临港绝影智能科技有限公司&lt;/div&gt;&lt;div&gt;91310115MA1HA4LC19&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="437.5" y="360" width="275" height="70" as="geometry" />

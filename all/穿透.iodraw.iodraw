@@ -29,6 +29,11 @@
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-58" target="kA6SFu2qZ5zpuUMocs6E-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-84" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-60">
+          <mxGeometry x="-0.1621" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-58" value="&lt;div&gt;上海临港绝影智能科技有限公司成都分公司&lt;/div&gt;&lt;div&gt;91510100MAD5A3LU75&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="200" width="250" height="60" as="geometry" />
         </mxCell>

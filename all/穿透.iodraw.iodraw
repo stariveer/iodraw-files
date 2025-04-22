@@ -105,7 +105,7 @@
         </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-107" value="股东类型: 其他投资者" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-74">
           <mxGeometry x="0.8295" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-65" value="91310000MA1FRLHB59&lt;br&gt;深圳眸正科技有限公司" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -113,6 +113,11 @@
         </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-67" target="kA6SFu2qZ5zpuUMocs6E-75">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-108" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-76">
+          <mxGeometry x="-0.1579" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-67" value="上海绝速企业咨询合伙企业（有限合伙）&lt;br&gt;91310000MADEJ4NH3K" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="680" width="220" height="60" as="geometry" />
@@ -132,7 +137,7 @@
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-75" target="kA6SFu2qZ5zpuUMocs6E-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kA6SFu2qZ5zpuUMocs6E-75" value="上海绝胜影辉科技有限责任公司&lt;br&gt;91310000MADEA26E6J&lt;div&gt;股东类型: 企业法人&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-75" value="上海绝胜影辉科技有限责任公司&lt;br&gt;91310000MADEA26E6J" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="827" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-77" value="张超&lt;div&gt;自然人股东&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">

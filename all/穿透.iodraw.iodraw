@@ -53,7 +53,7 @@
             <mxPoint x="740" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kA6SFu2qZ5zpuUMocs6E-87" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-64">
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-87" value="登记的名字查不到" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kA6SFu2qZ5zpuUMocs6E-64">
           <mxGeometry x="0.173" y="-2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -78,7 +78,7 @@
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-65" target="kA6SFu2qZ5zpuUMocs6E-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kA6SFu2qZ5zpuUMocs6E-65" value="用信用代码&lt;br&gt;91310000MA1FRLHB59查到&lt;br&gt;深圳眸正科技有限公司" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kA6SFu2qZ5zpuUMocs6E-65" value="&lt;br&gt;91310000MA1FRLHB59查到&lt;br&gt;深圳眸正科技有限公司" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="510" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kA6SFu2qZ5zpuUMocs6E-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kA6SFu2qZ5zpuUMocs6E-67" target="kA6SFu2qZ5zpuUMocs6E-75">
